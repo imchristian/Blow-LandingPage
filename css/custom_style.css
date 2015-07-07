@@ -1,0 +1,317 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.btn-custom{
+	margin-top:15px;
+	border:solid;
+	border-width:thin;
+	font-size:25px;
+	color:#828282;
+	margin-left:10px;
+}
+.btn-custom:hover{
+	color:#565656;
+}
+
+.btn-custom-large{
+	border:solid;
+	border-width:thin;
+	font-size:50px;
+	font-weight:100;
+	border-color:#25b89a;
+	color:#828282;
+	margin-left:10px;
+}
+.btn-custom-large:hover{
+	color:#565656;
+}
+
+#border_text_area{
+	margin-top: -40px;
+	border:solid;
+	border-radius: 5px;
+	border-width: 1px;
+	color:#828282;
+}
+
+#text_area{
+	margin-top: 50px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+#img_branding1{
+	margin-bottom:30px;
+}
+
+#img_branding2{
+	margin-bottom:40px;
+}
+
+#img_branding3{
+	margin-bottom:30px;
+}
+
+.carousel-indicators li{
+	background-color:#00afc8; 
+	border:1px solid #00afc8;
+	width:18px;
+	height:18px;
+	margin-bottom:-30px;
+}
+
+.carousel-indicators li.active{
+	background-color:#FFFFFF; 
+	border:1px solid #00afc8;
+	width:18px;
+	height:18px;
+	margin-bottom:-30px;
+}
+
+.indicators-branding li{
+	background-color:#00afc8; 
+	border:2px solid #FFFFFF;
+	width:18px;
+	height:18px;
+	margin-top:15px;
+	margin-bottom:5px;
+}
+
+
+.indicators-branding li.active{
+	background-color:#FFFFFF; 
+	border:1px solid #00afc8;
+	width:18px;
+	height:18px;
+	margin-top:15px;
+	margin-bottom:5px;
+}
+
+
+#section_inicio{
+	background-color:#25b89a;
+	min-height:85vh;
+	margin-top:0px;
+}
+
+#section_art{
+	margin-top:50px;
+}
+
+#section_branding{
+	background-color:#00afc8;
+}
+
+.text_tittle_inicio{
+	font-size:100px;
+	font-weight:100 !important;
+	color:#FFFFFF;
+	font-family:inherit;
+	line-height:1.1;
+	margin:.67em 0;
+}
+
+.text_tittle_webdesign{
+	font-size:100px;
+	font-weight:100 !important;
+	color:#FFFFFF;
+	font-family:inherit;
+	line-height:1.1;
+	margin:.30em 0;
+}
+.text_tittle_art{
+	font-size:80px;
+	font-weight:100 !important;
+	color:#FFFFFF;
+	font-family:inherit;
+	line-height:1.1;
+	margin:.30em 0;
+}
+.text_tittle_google{
+	font-size:60px;
+	font-weight:100 !important;
+	color:#FFFFFF;
+	font-family:inherit;
+	line-height:1.1;
+	margin:.30em 0;
+	text-align: center;
+}
+.text_inside{
+	font-size:20px;
+}
+
+#img_cloud_section_up{
+	margin-top:-150px;
+}
+#img_landing_page{
+	margin-top:67px;
+	margin-bottom:66px;
+}
+
+#img_landing_page2{
+	margin-top:21px;
+}
+#img_landing_page3{
+	margin-top:65px;
+	margin-bottom:85px;
+}
+
+#separator{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+#img_prices{
+	max-width: 50%;
+}
+
+#custom_project{
+	margin-top: 30px;
+}
+
+#medios_de_pago{
+	margin-top: 100px;
+	margin-bottom: 30px;
+}
+
+#section_contacto{
+	background-color:#F05525;
+	margin-top:90px;
+}
+#content_contacto{
+	margin-top: 50px;
+}
+#tel{
+	background-color:#25b89a;
+}
+
+.text_inicio{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size:30px;
+	color:#FFFFFF;
+	font-family:inherit;
+
+	text-align:center;
+}
+	#img_payment{
+		max-width: 50%;
+	}
+
+	#web_site{
+		margin-bottom: 49px;
+	}
+	#logo_it360{
+	 max-width:40%;
+}
+@media screen and (max-width:760px) {
+
+	#google{
+		max-width: 60%;
+	}
+
+	#logo_it360{
+	margin-top: 20px;
+	 max-width:40%;
+	}
+	#img_branding1{
+		margin-bottom: 59px;
+	}
+	#img_branding2{
+	margin-bottom:44px;
+}
+	#img_branding3{
+		margin-bottom: 87px;
+	}
+	#design_web{
+		margin-bottom: 60px;
+	}
+	#img_payment{
+		max-width: 30%;
+	}
+	.text_inicio{
+		margin-top: 0px;
+		margin-bottom: 0px;
+		font-size: 18px;
+	}
+
+	#section_tel{
+		margin-top: 15px;
+		margin-bottom: 15px;
+	}
+
+#content_contacto{
+	margin-top: 30px;
+	}
+
+	#img_prices{
+		margin-top: 15px;
+	}
+	.carousel-indicators li{
+	margin-bottom:-30px;
+}
+
+.carousel-indicators li.active{
+	margin-bottom:-30px;
+}
+
+	.btn-custom{
+		font-size:16px;
+	}
+
+	.btn-custom-large{
+		font-size: 24px;
+		font-weight:200;
+	}
+	.text_tittle_inicio{
+		font-size:40px;
+	}
+	.text_tittle_webdesign{
+		font-size:50px;
+	}
+	.text_tittle_art{
+		font-size:40px;
+	}
+	.text_tittle_google{
+		font-size:40px;
+	}
+	.text_inside{
+		font-size:16px;
+	}
+	#section_inicio{
+		min-height:200px;
+	}
+	#img_cloud_section_up{
+		margin-top:-60px;
+	}
+	#img_landing_page, #img_landing_page3{
+	margin-top:15px;
+	margin-bottom:0px;
+	max-width:150%;
+	margin-left:-25px;
+}
+#img_landing_page{
+	margin-bottom: 0px;
+}
+#img_landing_page2{
+	margin-bottom: 5px;
+}
+#img_landing_page3{
+	margin-bottom: 80px;
+}
+	#img_landing_page2{
+		max-width:150%;
+	}
+	#section_art{
+		margin-top:30px;
+	}
+	#img_art{
+		margin-top:20px;
+	}
+
+	#separator{
+		margin-bottom: 25px;
+		margin-top:  25px;
+	}
+
+}
